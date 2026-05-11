@@ -7,6 +7,4 @@ Monarch's Archive is a manhwa and manga tracking system built with Laravel and R
 
 ## video demo [here](https://drive.google.com/file/d/1Nn6wAb6NW1wHQ8Umy-4E8ZhhWrcw1fuV/view?usp=sharing)
 
-* [Act1 - anime-watched-ms](https://github.com/ChmB3r/anime-watched-ms)
-
 ---
